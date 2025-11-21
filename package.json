@@ -1,7 +1,7 @@
 {
   "name": "todolist",
   "version": "0.0.0",
-  "homepage": "https://tahasyed243.github.io/ToDo-List-STK-React",
+  "homepage": "https://tahasyed243.github.io/ToDo-App-STK-React",
   "private": true,
   "type": "module",
   "scripts": {
