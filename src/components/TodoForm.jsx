@@ -10,7 +10,7 @@ const TodoForm = () => {
   const add = (e) => {
     e.preventDefault()    // Prevent form submission reload
 
-    if (!todo) return
+    if (!todo.trim()) return
 
     addTodo({ todo, completed: false })   //new todo add karna 
     setTodo("")
